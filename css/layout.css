@@ -1,0 +1,51 @@
+label {
+  margin: 45px;
+  font-size: 35px;
+}
+
+section {
+  width: 270px;
+  height: 450px;
+  float: left;
+  text-align: center;
+  margin: 25px;
+  padding: 15px;
+}
+
+h1{
+  padding: 50px;
+  font-size: 125px;
+  text-align: center;
+}
+
+span{
+  text-align: center;
+  line-height: 100px;
+  margin: 165px;
+  font-size: 50px;
+}
+
+h2 {
+  padding-bottom: 5px;
+  font-size: 35px;
+}
+
+p {
+  font-size: 25px;
+}
+
+img {
+  border: outset 5px;
+  width: 260px;
+  max-height: 300px;
+}
+
+footer {
+  clear: both;
+  border-top: solid 3px gray;
+  height: 150px;
+  line-height: 150px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+}
