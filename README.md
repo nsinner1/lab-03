@@ -22,7 +22,7 @@ What are we going to implement?
 Given that a user opens the application in the browser When the images are displayed on the screen Then each image should be rendered according to a template
 
 How are we implementing it?
-Create the appropriate Mustache template in your HTML with the same <h2>, <img>, and <p> elements as the jQuery template from the prior lab.
+Create the appropriate Mustache template in your HTML with the same h2, img, and p elements as the jQuery template from the prior lab.
 Refactor the method that renders your images to use Mustache instead of making a copy with jQuery.
   
 Feature 3: Styling with Flexbox
